@@ -1,0 +1,6 @@
+[submodule "ppl-stats-front"]
+	path = ppl-stats-front
+	url = https://github.com/Paxlord/ppl-stats-front.git
+[submodule "ppl-stats-api"]
+	path = ppl-stats-api
+	url = https://github.com/Paxlord/ppl-stats-api.git
